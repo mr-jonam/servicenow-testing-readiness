@@ -1,0 +1,19 @@
+{
+  "name": "servicenow-testing-readiness",
+  "description": "Understand ServiceNow testing, ATF discussion boundaries, upgrade regression and workflow acceptance with a local conversation map.",
+  "topics": [
+    "servicenow",
+    "servicenow-atf",
+    "workflow-testing",
+    "regression-testing",
+    "upgrade-testing",
+    "quality-assurance",
+    "service-management"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}

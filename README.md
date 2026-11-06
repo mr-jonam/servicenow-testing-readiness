@@ -6,6 +6,14 @@ Understand ServiceNow testing, ATF discussion boundaries, upgrade regression and
 
 **Decision in focus:** What evidence would explain the effect of a workflow change to its owner?
 
+## See a first result
+
+**Problem:** A successful workflow submission leaves approval and fulfilment outcomes unexamined.
+
+**Example result:** What should the requester, approver and fulfiller each be able to confirm?
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The result is a question for the accountable owner; it is not a finding about a real system.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ Understand ServiceNow testing, ATF discussion boundaries, upgrade regression and
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/servicenow-testing-readiness.git
+cd servicenow-testing-readiness
 npm run preview
 ```
 
@@ -75,6 +87,12 @@ Suggested GitHub topics: `servicenow`, `servicenow-atf`, `workflow-testing`, `re
 - [ServiceNow — Automated Test Framework](https://www.servicenow.com/docs/r/zurich/application-development/automated-test-framework-atf/automated-test-framework.html)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 

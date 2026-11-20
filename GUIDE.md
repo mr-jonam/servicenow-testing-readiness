@@ -32,4 +32,12 @@ A useful brief names the change category and business workflow without exposing 
 
 ## Read next
 
-Read [source status and retrieval limitations](SOURCES.md), try the local mini tool using the [README instructions](README.md#start-here), or [discuss the question on LinkedIn](https://www.linkedin.com/in/manoj-rollo/). A short, non-confidential outline is enough. Professional assessment or delivery is separately scoped. This guide does not assess a system or approve a release.
+Read [source status and retrieval limitations](SOURCES.md) or try the local mini tool using the [README instructions](README.md#start-here).
+
+## Discuss a QA assessment
+
+[Message me on LinkedIn](https://www.linkedin.com/in/manoj-rollo/) with the **platform, what is changing and the release decision you still need to make**. Mention this guide if it helped frame the question. A short, non-confidential outline is enough.
+
+> Example: We are changing a ServiceNow access request. Before release, we need to know whether the requester can sign in after fulfilment passes to the connected application.
+
+We can discuss the scope of an assessment and a report on the available evidence, gaps and next steps.
